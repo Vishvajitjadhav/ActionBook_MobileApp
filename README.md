@@ -282,3 +282,7 @@ Clear the Metro cache: `npx expo start -c`.
 ## License
 
 MIT
+
+## Author
+
+Built by **Vishvajit Jadhav** — [github.com/Vishvajitjadhav](https://github.com/Vishvajitjadhav)
